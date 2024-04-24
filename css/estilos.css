@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Schibsted+Grotesk:ital,wght@0,400..900;1,400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap');
+#miColor{
+    background-color: white;
+}
+p{
+    font-family: Schibsted,light ;
+    font-weight: 300;
+    font-size: small;
+    a:link{
+        color: black;
+    }
+    margin-left: 15%;
+}
+p:hover{
+    text-transform:uppercase ;
+    text-decoration:overline;
+    
+}
+a{
+    font-family: Schibsted, light;
+    font-weight: 300;
+    font-size: small;
+    a:link{
+        color: black;
+    }
+}
+a:hover{
+    text-transform: uppercase;
+    text-decoration: overline;
+}
+ul{
+    font-family: Schibsted, light;
+    font-weight: 300;
+    font-size: small;
+    a:link{
+        color: black;
+    }
+    margin-left: 15%;
+}
+h1{
+    text-align: center;
+    font-family: Schibsted, light;
+    font-weight: 700;
+    color: darkolivegreen;
+    font-size:x-large;
+}
+h2{
+    text-align: center;
+    font-family:Schibsted, light;
+    font-weight: 600;
+    font-size:x-large;
+    color: darkolivegreen;
+}
+img{
+    width: 27%;
+    margin: auto;
+    display:block;
+    border-radius: 20%;
+}
+h3{
+    font-family: Garamond, light;
+    color: darkolivegreen;
+    font-size: large;
+    margin-right: 30%;
+    margin-left: 30%;
+}
+h4{
+    text-align: justify;
+    font-weight: 300;
+    font-family: Garamond,light;
+    font-size: medium;
+    margin-right: 30%;
+    margin-left: 30%;
+}
